@@ -127,4 +127,4 @@ fastboot erase metadata
 fastboot reboot
 ```
 
-Google Drive: [Download](https://drive.google.com/file/d/1Af1ypwC273jSFRnp4dozSQbNacqlKz6N/view)
+Google Drive: [Download](https://drive.google.com/file/d/1ptBnpA8_NOoR0K3G9OvXZ3-5H6l3f5OU/view)
